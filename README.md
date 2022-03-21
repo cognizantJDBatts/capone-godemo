@@ -1,2 +1,2 @@
 # capone-godemo
-Demo business application wriiteen in Go and AWS.
+Demo business application written in Go and AWS.
