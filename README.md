@@ -1,2 +1,2 @@
 # capone-godemo
-Go / AWS demo app
+Demo business application wriiteen in Go and AWS.
